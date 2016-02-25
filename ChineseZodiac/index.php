@@ -94,44 +94,23 @@
 					margin-left: 10px;
 					margin-right: 10px;
 				}
+				
 					
 			
 	</style>
 	</head>
 	<body>
 		<div>		
-			<header>		
-				<h2>Chinese Zodiac</h2>
-				<h3>A code demonstration for PHP</h3>
-				<h1>
-					<img height="200px" src="http://www.animatedimages.org/data/media/1055/
-					animated-chinese-zodiac-image-0009.gif" 
-					border="0" alt="animated-chinese-zodiac-image-0009"/>
-				</h1>
-			</header>
+			<?php include("Includes/inc_header.php") ?>
 		</div>
 		<div>
-			<nav>
-				<a href="#">Home Page</a> |
-				<a href="#">Site Layout</a> |
-				<a href="#">Control Structure</a> |
-				<a href="#">String Function</a> |
-				<a href="#">Web Forms</a> |
-				<a href="#">Midterm Assessment</a> |
-				<a href="#">State Information</a> |
-				<a href="#">User Templates</a> | 
-				<a href="#">Final Project</a>
-			</nav>
+			<?php include("Includes/inc_button_nav.php") ?>
 		</div>
 		<div>
-			<aside>
-				side bar
-			</aside>
+			<?php include("Includes/inc_text_links.php") ?>
 		</div>
 		<div>
-			<footer>
-				footer
-			</footer>
+			<?php include("Includes/inc_footer.php") ?>
 		</div>
 	</body>
 </html>
