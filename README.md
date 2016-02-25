@@ -17,6 +17,6 @@ This directory includes the answers of exercise questions and chinese zodiac dis
 http://cs.na.edu/~mahmad/COMP4342/Chapter1/Exercise1-1/InterestArray.php
    4. for Chinese Zodiac discovery project you must go to ChineseZodiac folder, then chose the part that you need for example: http://cs.na.edu/~mahmad/COMP4342/ChineseZodiac/index.php
 
-***Copy Pasting* this might decrease your grade in Advanced Web Application course !!**
+***Copy Pasting* might decrease your grade in Advanced Web Application course !!**
 
 Copyright © All Rights Reserved !!!  
