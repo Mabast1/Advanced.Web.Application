@@ -1,5 +1,5 @@
 <nav>
-	<a href="#">Home Page</a> |
+	<a href="../index.php">Home Page</a> |
 	<a href="#">Site Layout</a> |
 	<a href="#">Control Structure</a> |
 	<a href="#">String Function</a> |

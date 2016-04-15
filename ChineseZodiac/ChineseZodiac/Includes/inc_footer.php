@@ -1,5 +1,4 @@
-<footer>
-&copy; 2016
+&copy; 2014
 <?php
 $prov_array = file("proverbs.txt", FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 $proverbcount = count($prov_array);
@@ -14,4 +13,3 @@ function getimage() {
   return $files['0'];
 }
 ?>
-</footer>

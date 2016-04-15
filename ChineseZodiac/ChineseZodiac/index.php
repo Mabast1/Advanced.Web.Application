@@ -25,7 +25,7 @@
 				padding-top: 0px;
 				font-size: 1em;
 				text-align: center;
-				color: blue;
+				color: yellow;
 				margin-bottom: 0px;
 				
 			}
@@ -58,13 +58,11 @@
 				left: 0px;
 				right: 0px;
 				text-decoration: none;
-				color: black;
-				font-size: large;
 				}
 			a:hover { 
 				color:white;
 				border:1px solid black;
-				border-radius: 0px 17px 0px 17px;
+				border-radius: 50px;
 				background-color: rgba(255, 0, 0, 1);
 				padding: 10px;
 				
@@ -72,89 +70,35 @@
 					
 				nav{
 					height: 40px;
-					width: 1415px;
+					width: 1418px;
 					text-align: center;
 					padding-top: 20px;
-					border: 1px solid red;
+					border: 1px solid silver;
 					margin-left: 10px;
 					margin-right: 10px;
-					background: repeating-linear-gradient(
-					  to right,
-					  #f6ba52,
-					  #f6ba52 10px,
-					  #ffd180 10px,
-					  #ffd180 20px
-					);
 				}
 				aside{
 					margin-left: 10px;
-					height: 700px;
+					height: 480px;
 					width: 20%;
-					border: 1px solid red;
-					background-color: red;
-					text-decoration: none;
-					padding-left: -20px;					
-				}	
-				ul li{
-					text-decoration: none;
-					color: black;
-					list-style-type: none;
-					padding-bottom: 10px;
-				}
-				ul li:nth-child{
+					border: 1px solid silver;
+					text-align: center;
 					
-				}
-				/*footer{
-					height: 25px;
+				}	
+				footer{
+					height: 40px;
 					width: 1418px;
 					text-align: center;
-					padding-top: 10px;
+					padding-top: 20px;
+					border: 1px solid silver;
 					margin-left: 10px;
 					margin-right: 10px;
-					margin-top: 300px;
-					border: 1px solid red;
-					background-color: red;
-					border-radius: 0px 0px 8px 8px;
-					position: fixed;
-				}*/
-				footer {
-				   position: absolute;
-				   bottom: 0;
-				   top:1114px;
-				   left:10px;
-				   height:30px;
-				   width: 1418px;
-				   padding-top: 10px;
-				   background-color:red;
-				   border: 1px solid red;
-				   border-radius: 0px 0px 8px 8px;
-				   color: white;
-				   text-align: center;
-				   background-color:red;
-				background-image:
-				radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
-				radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
-				radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
-				radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
-				background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px; 
-				background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
-				
 				}
-
 				#content{
-					font-family: 'Segoe UI', Frutiger, 'Frutiger Linotype', 'Dejavu Sans',
-					 'Helvetica Neue', Arial, sans-serif;
-					width: 1000px;
-					height: 670px;
-					padding-left:7%; 
+					margin-top: -480px;
+					width: 80%;
 					margin-left: 21%;
-					margin-top: -680px;
-					background-color: #fff; 
-					background-image: 
-					linear-gradient(90deg, transparent 79px, #abced4 79px,
-					 #abced4 81px, transparent 81px),
-					linear-gradient(#eee .1em, transparent .1em);
-					background-size: 100% 1.2em;
+					margin-bottom: 480px;
 				}
 				
 					
