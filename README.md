@@ -23,4 +23,4 @@ http://cs.na.edu/~mahmad/COMP4342/Chapter1/Exercise1-1/InterestArray.php
 ***Copy Pasting* might decrease your grade in Advanced Web Application course !!**
 >>>>>>> 2a255c5777e5672ccbad0ae784724d671e8d2ad5
 
-Copyright © All Rights Reserved !!!  
+
